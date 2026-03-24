@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center" style="color: #5a189a;"># Hi there, I'm José Ignacio Chávez Leiva 👋</h1>
+<h1 align="center" style="color: #5a189a;"> Hi there, I'm José Ignacio Chávez Leiva 👋</h1>
 
 <p>
   A passionate software engineer focused on building clean, scalable, and efficient applications.<br>
