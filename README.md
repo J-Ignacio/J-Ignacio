@@ -1,32 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waves&color=5a189a&height=200&section=header" width="100%" alt="Header" />
+<h1 align="center" style="color: #5a189a;"># Hi there, I'm José Ignacio Chávez Leiva 👋</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=J-Ignacio&theme=dracula&column=7" alt="Trophies" />
-
-<h2>About Me</h2>
 <p>
   A passionate software engineer focused on building clean, scalable, and efficient applications.<br>
   Always learning new technologies and exploring the boundaries of modern software development.
 </p>
 
-<h2>Tech Stack</h2>
-<p>
-  <img src="https://img.shields.io/badge/Language_1-5a189a?style=for-the-badge&logo=appveyor" alt="Tech 1" />
-  <img src="https://img.shields.io/badge/Language_2-5a189a?style=for-the-badge&logo=appveyor" alt="Tech 2" />
-  <img src="https://img.shields.io/badge/Language_3-5a189a?style=for-the-badge&logo=appveyor" alt="Tech 3" />
-  <img src="https://img.shields.io/badge/Tool_1-5a189a?style=for-the-badge&logo=appveyor" alt="Tool 1" />
-  <img src="https://img.shields.io/badge/Tool_2-5a189a?style=for-the-badge&logo=appveyor" alt="Tool 2" />
-</p>
+</div>
 
-<h2>GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ignacio&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+## 🛠️ Languages and Technologies
 
-<h2>Activity Graph</h2>
-<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-5a189a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-5a189a?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/HTML5-5a189a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-5a189a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-5a189a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-5a189a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+## 🚀 Featured Projects
+
+* 🖥️ [Server-Monitor](https://github.com/J-Ignacio/Server-Monitor) - [Insert professional description here] *(Built with Python)*
+* 🛡️ [programacion-segura](https://github.com/J-Ignacio/programacion-segura) - [Insert professional description here] *(Built with Go)*
+* ⚙️ [RatZ](https://github.com/J-Ignacio/RatZ) - [Insert professional description here]
+
+## ⚡ More About Me (Interests & Hobbies)
+
+* 🎮 Gaming ([Insert games, e.g., Skyrim/Fortnite])
+* 🎸 Music ([Insert genres, e.g., Progressive Metal])
+* 📚 Reading ([Insert favorite genres or books])
+
+## 📊 My Stats
+
+<div align="center">
+  <p><strong>Total Contributions:</strong> [Insert total contributions here, e.g., 500+]</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Ignacio&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
+
+## Activity Graph
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Ignacio&bg_color=transparent&color=7b2cbf&line=5a189a&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 </div>
