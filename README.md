@@ -29,9 +29,9 @@
 
 ## ⚡ More About Me
 
-* 🎮 **Gaming**: (Active player of DayZ, Apex Legends, and Project Zomboid.)
-* 🎵 **Music**: (Broad taste including 70s, 80s, and 90s classics, but top artists are 21 Savage and The Weeknd.)
-* 🃏 **Collectibles**: (Passionate Pokémon Card collector.) <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="45" align="center" alt="Gengar" style="background: transparent;">
+* 🎮 **Gaming**: Active player of DayZ, Apex Legends, and Project Zomboid.
+* 🎵 **Music**: Broad taste including 70s, 80s, and 90s classics, but top artists are 21 Savage and The Weeknd.
+* 🃏 **Collectibles**: Passionate Pokémon Card collector. <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="45" align="center" alt="Gengar" style="background: transparent;">
 
 ## 📊 My Stats
 
