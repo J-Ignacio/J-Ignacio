@@ -36,7 +36,11 @@
 ## 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Ignacio&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  img 
+  src="https://github-readme-stats.vercel.app/api?username=J-Ignacio&show_icons=true&theme=dracula" 
+  alt="GitHub Stats"
+  width="500"
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ignacio&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
