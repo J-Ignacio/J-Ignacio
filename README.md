@@ -2,10 +2,12 @@
 
 <div align="center">
 <p align="center">
-  A **professional** software **developer** with a strong foundation in <strong>Python</strong>.<br>
+  A **professional** software **developer** with a strong foundation in <strong>Python</strong> and <strong>Go</strong>.<br>
   I specialize in building efficient applications, with a keen interest in <strong>system monitoring</strong> solutions and <strong>game development</strong>.
 </p>
 
+<img src="https://img.shields.io/badge/Python-5a189a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Go-5a189a?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/HTML5-5a189a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-5a189a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-5a189a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
