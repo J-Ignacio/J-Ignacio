@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/JavaScript-5a189a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Bash-5a189a?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Git-5a189a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Godot-5a189a?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+<img src="https://img.shields.io/badge/GDScript-5a189a?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
 </div>
 
 ## 🚀 Featured Projects
@@ -30,7 +32,7 @@
 ## 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ignacio&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=J-Ignacio&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ## 📈 Activity Graph
