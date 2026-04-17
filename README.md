@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 * **🖥️ [Server-Monitor](https://github.com/J-Ignacio/Server-Monitor)**: A system monitoring tool designed to be hosted on a fixed remote desktop. Tracks server performance and health metrics in real-time.
-* **📄 [pdfgenerator](https://github.com/J-Ignacio/pdfgenerator)**: A utility for generating PDF documents.
+* **📄 [PDFGenerator](https://github.com/J-Ignacio/pdfgenerator)**: A utility for generating PDF documents.
 * **🧟 [RatZ](https://github.com/J-Ignacio/RatZ)**: A personal 2D game development project set in a zombie apocalypse, focusing on survival mechanics.
 
 ## ⚡ More About Me
