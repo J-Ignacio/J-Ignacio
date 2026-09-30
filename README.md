@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
   A **professional** software **developer** with a strong foundation in <strong>Python</strong> and <strong>Go</strong>.<br>
-  I specialize in building efficient applications, with a keen interest in <strong>system monitoring</strong> solutions and <strong>game development</strong>.
+  I specialize in building efficient applications, with a keen interest in <strong>system monitoring</strong> solutions.
 </p>
 
 <img src="https://img.shields.io/badge/Python-5a189a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -13,15 +13,12 @@
 <img src="https://img.shields.io/badge/JavaScript-5a189a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Bash-5a189a?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Git-5a189a?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Godot-5a189a?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-<img src="https://img.shields.io/badge/GDScript-5a189a?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
 </div>
 
 ## 🚀 Featured Projects
 
 * **🖥️ [Server-Monitor](https://github.com/J-Ignacio/Server-Monitor)**: A system monitoring tool designed to be hosted on a fixed remote desktop. Tracks server performance and health metrics in real-time.
 * **📄 [PDFGenerator](https://github.com/J-Ignacio/pdfgenerator)**: A utility for generating PDF documents.
-* **🧟 [RatZ](https://github.com/J-Ignacio/RatZ)**: A personal 2D game development project set in a zombie apocalypse, focusing on survival mechanics.
 
 ## ⚡ More About Me
 
@@ -38,5 +35,5 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Ignacio&bg_color=transparent&color=7b2cbf&line=5a189a&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Ignacio&theme=dracula&hide_border=true" alt="Activity Graph" />
 </div>
